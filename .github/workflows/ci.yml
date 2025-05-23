@@ -1,3 +1,4 @@
+name: CI for Simple JS Website
 on:
   push:
     branches: [main]
